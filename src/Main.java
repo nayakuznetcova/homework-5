@@ -99,5 +99,6 @@ public class Main {
             default:
                 System.out.println("Точно месяц?");
         }
+
     }
 }
